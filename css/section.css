@@ -1,0 +1,103 @@
+.projectP{
+font-size: 15px;
+margin-bottom: 0px;
+}
+
+.circle-container{
+    /* border-radius: 50%; */
+    
+    width:70%;
+    height:auto; 
+     
+    margin-right: auto;
+    margin-left: auto; 
+    overflow: hidden;
+
+    
+}
+
+.siderbar-li{
+    margin:0px !important;
+}
+
+.publicationDiv{
+    padding: 15px 0;
+    border-bottom: 1px solid #C9CFD6;
+
+}
+
+
+
+.pub_author_me {
+    font-weight: 600;
+    /* border-bottom: 2px solid #96351e; */
+}
+
+
+.section{
+    border-bottom: 2px solid #C9CFD6;
+}
+
+.section-head{
+    margin-top: 30px;
+    font-weight: 500;
+    font-size: 1.6em;
+    padding-bottom: 10px;
+}
+
+.badge {
+    display: inline-block;
+    padding: .35em .65em;
+    font-size: .75em;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+}
+
+.badge-venue {
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 7px;
+    font-size: 12px;
+    line-height: 1;
+    /* color: #fff; */
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    /* background-color: #777; */
+    border-radius: 10px;
+}
+
+.badge-j {
+    background-color: #f9ad45!important;
+}
+
+.badge-c {
+    background-color: #2c5d9c!important;
+    
+}
+
+.talk-item-list{
+    font-size: 14px;
+}
+
+.talk-item-list{
+    padding-left: 30px;
+}
+#controllder{
+    display:none !important;
+    z-index: -100 !important;
+}
+.vsc-controller{
+    display:none !important;
+    z-index: -100 !important;
+}
+/* video::-webkit-media-controls-panel {
+    display: none !important;
+    opacity: 1 !important;} 
+
+video::-webkit-media-controls, video::-moz-media-controls, video::-o-media-controls, video::-ms-media-controls {   display: none !important; }  */
